@@ -2,7 +2,7 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.1.0.
 
-**Bu projei kullanmak isteyenler root ta bulunan src.zip klarörünü açıp yine root'ta src olarak koymalıdırlar.**
+**Bu projeyi kullanmak isteyenler root ta bulunan src.zip klarörünü açıp yine roota src klasörü olarak koymalıdırlar.**
 
 ## Development server
 
